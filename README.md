@@ -122,7 +122,3 @@ Desenvolvido por [Thiago]([https://www.linkedin.com/in/seuperfil](https://www.li
 Entre em contato via e-mail: thiagoaparecidoaraujo23@gmail.com 
 
 ---
-
-```
-
-Esse README apresenta todas as informações essenciais para facilitar a compreensão e utilização do seu projeto por outras pessoas.

@@ -1,4 +1,3 @@
-```markdown
 # 🏦 Detecção de Fraude Bancária
 
 ## 📄 Descrição
@@ -20,8 +19,6 @@ Durante o desenvolvimento, foram exploradas diversas abordagens de modelagem par
 │-- 📄 requirements.txt   # Dependências do projeto
 📄 README.md           # Documentação do projeto
 ```
-
----
 
 ## 🛠 Tecnologias Utilizadas
 
